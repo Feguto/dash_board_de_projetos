@@ -8,10 +8,6 @@
 
 Sistema web moderno para gerenciamento de projetos e atividades, desenvolvido com foco em usabilidade e eficiência. Interface intuitiva e responsiva que permite aos usuários gerenciar projetos, acompanhar atividades e monitorar o progresso de forma simples e eficaz.
 
-### ✨ Demonstração
-
-[Adicionar screenshots ou GIF do projeto em ação]
-
 ## 🚀 Funcionalidades Principais
 
 ### 📌 Gestão de Projetos
