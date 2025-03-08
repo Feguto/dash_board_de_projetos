@@ -100,14 +100,14 @@ Contribuições são bem-vindas! Para contribuir:
 
 ## 📫 Contato
 
-[Seu Nome] - [Seu Email]
+Felipe Augusto - lipelipeguto@gmail.com
 
-LinkedIn: [Seu LinkedIn]
-GitHub: [Seu GitHub]
+LinkedIn: (https://www.linkedin.com/in/felipe-augusto-4b547522a/)
+GitHub: FeGuto
 
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-⭐ Desenvolvido com 💙 por [Seu Nome] 
+⭐ Desenvolvido com 💙 por Felipe Augusto
